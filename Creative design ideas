@@ -3,4 +3,19 @@
   "id": 1,
   "Description": "Create a software which can monitor hobbies of a person.",
 },
+
+{
+  "id": 2,
+  "Description": "Animation for Smart Banking Widget, which helps keep all the financial stuff in one place and keep track of all the fund activity.",
+},
+
+{
+ "id": 3,
+ "Description": "E-learning Platform Design where you can watch courses, follow your home tasks schedule and track your progress.",
+},
+
+{
+ "id": 4,
+ "Description": "Meditation Mobile App that helps to calm the nervous system, which contains curated playlists for different types of meditation.",
+},
 ]
