@@ -4,4 +4,12 @@
   "Name" = "Figma",
   "Description" = "Use to create UIs"
 },
+
+{
+  "id" = 2,
+  "Name" = "Canva",
+  "Description" = "It is used to create posters, presentations, thumbnails and a lot more."
+},
+
+
 ]
