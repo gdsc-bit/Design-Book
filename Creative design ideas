@@ -27,4 +27,12 @@
  "id": 6,
  "Description": "An app that contains various customizable BookMarks according to the requirement",
 },
+{
+  "id" : 7,
+  "Description" : "An app that shows the price/cost from all three or more like Uber, Ola, Rapido so that we can choose the least one."
+ },
+ {
+  ""id" : 8,
+  "Description" : "An app to show recommedations from Share Markets helpful for Intra day and gaining a percentage  of thei profits."
+  }
 ]
